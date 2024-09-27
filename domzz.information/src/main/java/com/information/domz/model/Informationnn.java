@@ -60,7 +60,7 @@ public class Informationnn implements Serializable {
 	private String highSchoolYear;
 	
 
-	/**
+	/**TODO
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
@@ -267,4 +267,3 @@ public class Informationnn implements Serializable {
 	
 
 
-	
